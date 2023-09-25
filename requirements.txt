@@ -1,0 +1,11 @@
+# Yahoo  Finance - Source data
+yfinance == 0.2.30
+
+# Nasdaq Data Link - Source data
+Nasdaq-Data-Link == 1.0.4
+
+# Pandas - Data manipulation
+pandas == 2.1.1
+
+# Plotly - DataViz
+plotly == 5.17.0
